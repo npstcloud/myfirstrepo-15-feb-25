@@ -1,2 +1,3 @@
  my first file for commit in git hub firectory 
  2nd commit for testing purpose 
+my 3rd commit from npst server git clone checking gor update 
